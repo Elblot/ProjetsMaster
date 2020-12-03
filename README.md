@@ -1,6 +1,6 @@
 # ProjetsMaster
 
-Projets realisé durant mon MAster entre 2015 et 2017:
+Projets realisés durant mon Master entre 2015 et 2017:
 
 - Cryptanalyse: 
 
